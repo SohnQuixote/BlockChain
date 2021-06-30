@@ -5,10 +5,10 @@ To Create and study a block chainn
 
 ## Goals
 
-### Beginner: use existing technology
+### Beginner: be able to use state-of-the-art blockchain tools
 + Bitcoin fork
 
-### Intermediate: find new uses 
+### Intermediate: find new uses for existing blockchain tech
 + Ethereum smart contract
 + Federated learning through 
 
