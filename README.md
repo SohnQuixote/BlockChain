@@ -1,7 +1,9 @@
 # BlockChain
-To Create and study a block chainn
+To Create and study a block chain
 
 ## Timeline
+
+## [Resources](Resources.md)
 
 ## Goals
 
