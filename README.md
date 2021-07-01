@@ -1,7 +1,14 @@
 # BlockChain
 To Create and study a block chain
 
+
+
 ## Timeline
+
+일주일에 하루
+
+SM - 책 2달 안에 끝내기
+
 
 ## [Resources](Resources.md)
 
