@@ -3,21 +3,25 @@
 
 Sorted by beginner-friendliness
 
-## Beginner: 개념 소개 
+## Beginner: 이론 / 개념 소개 
 
 ### Websites 
 
-| URL | 장점 | 단점| 언어 |
+| URL | 설명 | 장/단점| 언어 |
 |---|---|---|---|
+| https://andersbrownworth.com/blockchain/ & https://andersbrownworth.com/blockchain/public-private-keys | web-based demo | | Englsh |
 | https://brilliant.org/courses/cryptocurrency/ | 만화 / 퍼즐 친절한 설명 | 2주후 유료 | English |
+| https://sandbox.eth.build/ | Online playground | | English
 
 
-## Intermediate: 핵심 알고리즘 이해 / 구현 
+## Intermediate: 프로그래밍 툴 배우기
+
 
 ### Websites
 
-| URL | 장점 | 단점| 언어 |
+| URL | 설명 | 장/단점| 언어 |
 |---|---|---|---|
+| https://youtu.be/ipwxYa-F1uY | Solidity: Ethereum 블록체인 기반 Smart Contract 프로그래밍 언어 | 무료 | English | 
 
 ## Advanced: 실제 시스템 구현 
 
