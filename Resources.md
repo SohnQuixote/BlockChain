@@ -21,6 +21,7 @@ Sorted by beginner-friendliness
 
 | URL | 설명 | 장/단점| 언어 |
 |---|---|---|---|
+| https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf | EVM 구조 구체 설명 | | English |
 | https://youtu.be/ipwxYa-F1uY | Solidity: Ethereum 블록체인 기반 Smart Contract 프로그래밍 언어 | 무료 | English | 
 
 ## Advanced: 실제 시스템 구현 
