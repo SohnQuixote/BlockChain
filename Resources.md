@@ -3,6 +3,12 @@
 
 Sorted by beginner-friendliness
 
+## Recommended Order of Study
+
++ https://andersbrownworth.com/blockchain/
++ https://andersbrownworth.com/blockchain/public-private-keys
++ https://blog.openzeppelin.com/a-gentle-introduction-to-ethereum-programming-part-1-783cc7796094/
+
 ## Beginner: 이론 / 개념 소개 
 
 ### Websites 
