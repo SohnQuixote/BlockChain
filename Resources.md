@@ -5,9 +5,13 @@ Sorted by beginner-friendliness
 
 ## Recommended Order of Study
 
+### Python Track
+
 + https://andersbrownworth.com/blockchain/
 + https://andersbrownworth.com/blockchain/public-private-keys
-+ https://blog.openzeppelin.com/a-gentle-introduction-to-ethereum-programming-part-1-783cc7796094/
++ https://web3py.readthedocs.io/en/stable/quickstart.html
++ https://eth-brownie.readthedocs.io/en/stable/quickstart.html
+
 
 ## Beginner: 이론 / 개념 소개 
 
