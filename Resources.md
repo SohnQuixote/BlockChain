@@ -3,9 +3,20 @@
 
 Sorted by beginner-friendliness
 
-## Beginner: 이론 / 개념 소개 
+## Recommended Order of Study
 
-### Websites 
+### Python Track
+
++ https://andersbrownworth.com/blockchain/
++ https://andersbrownworth.com/blockchain/public-private-keys
++ https://web3py.readthedocs.io/en/stable/quickstart.html
++ https://eth-brownie.readthedocs.io/en/stable/quickstart.html
+
+## Sorted by Difficulty
+
+### Beginner: 이론 / 개념 소개 
+
+#### Websites 
 
 | URL | 설명 | 장/단점| 언어 |
 |---|---|---|---|
@@ -14,25 +25,25 @@ Sorted by beginner-friendliness
 | https://sandbox.eth.build/ | Online playground | | English
 
 
-## Intermediate: 프로그래밍 툴 배우기
+### Intermediate: 프로그래밍 툴 배우기
 
 
-### Websites
+#### Websites
 
 | URL | 설명 | 장/단점| 언어 |
 |---|---|---|---|
 | https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf | EVM 구조 구체 설명 | | English |
 | https://youtu.be/ipwxYa-F1uY | Solidity: Ethereum 블록체인 기반 Smart Contract 프로그래밍 언어 | 무료 | English | 
 
-## Advanced: 실제 시스템 구현 
+### Advanced: 실제 시스템 구현 
 
-### Books
+#### Books
 
 | 도서명 | 출판사 | 링크 | 언어 | 
 |---|---|---|---|
 | Mastering Bitcoin | OREILLY | https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388 | English |
 
-### Websites 
+#### Websites 
 
 | URL | 장점 | 단점| 언어 |
 |---|---|---|---|
